@@ -3,6 +3,6 @@ def greeting
 end
 
 
-
+greeting
 
 
